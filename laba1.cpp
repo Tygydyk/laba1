@@ -22,6 +22,4 @@ cout<<a[i][j] + b[i][j]<<" ";
 cout<<endl;
 }
 return 0;
-
-
 }
